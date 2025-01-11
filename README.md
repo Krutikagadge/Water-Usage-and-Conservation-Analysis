@@ -36,5 +36,11 @@ This project analyzes global water consumption patterns and trends using data an
 3. **Anomalies**: Detected and visualized data points with unusual water usage patterns.
 
 ---
+## Output:
+![image](https://github.com/user-attachments/assets/14a86e6a-d49b-49ac-a1bd-4f62db050bf5)
+
+![image](https://github.com/user-attachments/assets/0b6c8472-13d7-4188-8fa1-192dec698b5b)
+
+
 
 
